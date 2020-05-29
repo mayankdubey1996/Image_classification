@@ -1,0 +1,1 @@
+In this project I did image classification, given the image the model will predict whether the person has brain tumor or not. It is a research project for one of my course. I used preprocessing like bluring the image, rotating the image evertime etc. and I used 4 modeling algorithms like Logistic Regression, Random Forest, Deep Neural Network and CNN.  
